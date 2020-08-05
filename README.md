@@ -28,16 +28,10 @@ ppx(cx): 319.226, ppy(cy): 242.138, fx: 384.681, fy:384.681, s: 0
 
 ## Data Structure
 DeepDoors2
-* Door Detection
+* Door Detection|Segmentation
   * Annotations
-    * Test
-    * Train
-  * Annotations-visualization
-    * Test
-    * Train
   * Images
-    * Test
-    * Train
+
   
 * Door Classification
   * Depth
