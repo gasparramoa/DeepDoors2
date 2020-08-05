@@ -18,7 +18,7 @@ The dataset has 1000 closed door images, 1000 open door images and 1000 semi-ope
 ![Samples for door classification dataset](/images-readme/classification.png)
 
 ## Link to dataset
-Link [here](https://drive.google.com/drive/folders/1iSrPjO-F2aaB7MmsN7tsU1wnLtnO3euK?usp=sharing)
+Link [here](https://drive.google.com/drive/folders/1SxVKeJ9RBcoJXHSHw-LWaLGG07BZT-b5?usp=sharing)
 
 
 ## Intrinsic matrix (pixels)
