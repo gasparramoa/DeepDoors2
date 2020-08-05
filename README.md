@@ -6,7 +6,7 @@ Further details of the sub-datasets are described below.
 
 
 ## DeepDoors2 Detection | SemanticSegmentation
-This subdataset has a total of 3000 grey-scaled images with the size 480 x 640. The pixel value of the images is 1 if it corresponds to a door or door frame, and is 2 if it does not. There is also available a RGB version of the annotations of this dataset for viewing purposes.
+This subdataset has a total of 3000 RGB images with the size 480 x 640. The pixel value of the images is 192,224,192 if it corresponds to a door or door frame, and is 0,0,0 if it does not (background). 
 
 ![Samples for door detection dataset](/images-readme/detection.png)
 
