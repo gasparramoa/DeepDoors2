@@ -1,8 +1,7 @@
 # :door: DeepDoors2  Dataset 
 DeepDoors2 is a dataset for 2D/3D door classification, 2D door detection and 2D door segmentation. <br/> <br/>
 The images were obtained using a 3D Realsense Camera, model D435. The camera was rotated 90 degrees since its horizontal viewing angle(86 degrees) is bigger than its vertical viewing angle(57 degrees) with the purpose of including all the door area in the images.
-The images captured are from Universidade da Beira Interior, public places and people's houses with several doors and its surroundings with different textures and sizes. \
-The DeepDoors2 Dataset is divided in two sub-datasets, one for door detection/semantic segmentation with 3000 images and the other for door classification also with 3000 images. \
+The images captured are from Universidade da Beira Interior, public places and people's houses with several doors and its surroundings with different textures and sizes. This Dataset is divided in two sub-datasets, one for door detection/semantic segmentation with 3000 images and the other for door classification also with 3000 images. \
 Further details of the sub-datasets are described below.
 
 
