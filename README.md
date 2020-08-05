@@ -67,7 +67,7 @@ DeepDoors2
       * Open
       * Semi-open   
        
- ## Citation :office:
+ ## Citation :page_with_curl:
  If you use this dataset, please cite:
 ```
  @InProceedings{icarsc2020,
