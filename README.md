@@ -74,6 +74,8 @@ DeepDoors2
        
  ## Acknowledgments      
        
+ To Nuno, Bruno, Vasco, Diogo, Simão.      
+       
  ## Citation :page_with_curl:
  If you use this dataset, please cite:
 ```
