@@ -8,14 +8,14 @@ Further details of the sub-datasets are described below.
 ## DeepDoors2 Detection | SemanticSegmentation
 This subdataset has a total of 3000 RGB images with the size 480 x 640. The pixel value of the images is 192,224,192 if it corresponds to a door or door frame, and is 0,0,0 if it does not (background). 
 
-![Samples for door detection dataset](/images-readme/detection.png)
+![Samples for door detection dataset](doors1.jpg)
 
 ## DeepDoors2 Classification [3D and RGB]
 This subdataset has a total of 3000 RGB door images and the 3000 corresponded depth images.
 Both with the size 480 x 640 pixels. The depth images are in grey-scale with pixels values between 0 and 255 and the depth scale used was equal to 1/16. The depth in meters is equal to depth scale * pixel value, for example, if the pixel value is equal to 32 it means that that pixel is 2 meters away from the viewer(1/16 * 32 = 2). 
 The dataset has 1000 closed door images, 1000 open door images and 1000 semi-open doors images. It is also divided in test, validation and train set. For the validation and test set it were used 100 samples of each class giving a total of 300 samples for test and 300 samples for validation. The remaning samples were used to built the training set (2400 images).
 
-![Samples for door classification dataset](/images-readme/classification.png)
+![Samples for door classification dataset](doors2.jpg)
 
 ## Link to dataset
 Link [here](https://drive.google.com/drive/folders/1SxVKeJ9RBcoJXHSHw-LWaLGG07BZT-b5?usp=sharing)
