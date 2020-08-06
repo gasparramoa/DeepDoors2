@@ -66,7 +66,7 @@ DeepDoors2
  The DeepDoors2 Dataset is the version 2.0 of [[Door Detection & Classification] Dataset](https://github.com/gasparramoa/DoorDetect-Class-Dataset) with several improvements.
  * Obstacles in front of the doors (Tables, chairs, etc.).
  * Contains blurred images.
- * Doors with glass
+ * Doors with glass.
  * Double doors.
  * Outdoor doors.
  * People and animals in front of the doors.
