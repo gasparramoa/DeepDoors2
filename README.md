@@ -79,13 +79,16 @@ DeepDoors2
  ## Citation :page_with_curl:
  If you use this dataset, please cite:
 ```
- @InProceedings{icarsc2020,
-  author = {João Gaspar Ramôa and Luís A. Alexandre and Sandra Mogo},
-  title = {Real-Time 3D Door Detection and Classification on a Low-Power Device},
-  booktitle = {20th IEEE International Conference on Autonomous Robot
-Systems and Competitions (ICARSC 2020)},
-  year = {2020},
-  address = {Azores, Portugal},
-  month = {April}
+@article{article,
+author = {Ramôa, João and Lopes, Vasco and Alexandre, Luís and Mogo, Sandra},
+year = {2021},
+month = {05},
+pages = {},
+title = {Real-time 2D–3D door detection and state classification on a low-power device},
+volume = {3},
+journal = {SN Applied Sciences},
+doi = {10.1007/s42452-021-04588-3}
 }
 ```
+
+
