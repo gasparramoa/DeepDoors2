@@ -10,6 +10,14 @@ This subdataset has a total of 3000 RGB images with the size 480 x 640. The pixe
 
 ![Samples for door detection dataset](doors2.jpg)
 
+### YOLOv5
+
+We've also created, from those files, a YOLOv5 ready dataset:
+
+Link to [dataset](https://drive.google.com/drive/folders/1mspgUmxMlam1FVUizl0-QNH_L_XF_Ajh?usp=sharing)
+
+Link to [trained model](https://drive.google.com/drive/folders/1CGi2c8TAJiBLw5EPvWOZITu_HNSQkO84?usp=sharing)
+
 ## DeepDoors2 Classification [3D and RGB]
 This subdataset has a total of 3000 RGB door images and the 3000 corresponded depth images.
 Both with the size 480 x 640 pixels. The depth images are in grey-scale with pixels values between 0 and 255 and the depth scale used was equal to 1/16. The depth in meters is equal to depth scale * pixel value, for example, if the pixel value is equal to 32 it means that that pixel is 2 meters away from the viewer(1/16 * 32 = 2). 
@@ -32,7 +40,6 @@ DeepDoors2
   * Annotations
   * Images
 
-  
 * Door Classification
   * Depth
     * Test
@@ -60,9 +67,9 @@ DeepDoors2
       * Closed
       * Open
       * Semi-open   
-       
+      
  ## Dataset Caracteristics
- 
+
  The DeepDoors2 Dataset is the version 2.0 of [[Door Detection & Classification] Dataset](https://github.com/gasparramoa/DoorDetect-Class-Dataset) with several improvements.
  * Obstacles in front of the doors (Tables, chairs, etc.).
  * Contains blurred images.
@@ -70,10 +77,10 @@ DeepDoors2
  * Double doors.
  * Outdoor doors.
  * People and animals in front of the doors.
- 
-       
+
+   ​    
  ## Acknowledgments      
-       
+
  To Nuno, Bruno, Vasco, Diogo, Simão.      
        
  ## Citation :page_with_curl:
@@ -90,5 +97,3 @@ journal = {SN Applied Sciences},
 doi = {10.1007/s42452-021-04588-3}
 }
 ```
-
-
